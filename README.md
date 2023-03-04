@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MuthuVishal
 - 👀 I’m interested in learning new things
-- 🌱 I’m currently learning Information Technology
+- 🌱 I’m currently studying Information Technology
 - 📫 How to reach me is via email:mvishalk2003@gmail.com or mobile:+91 93456 85025
 
 <!---
